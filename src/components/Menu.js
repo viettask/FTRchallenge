@@ -100,7 +100,7 @@ export default function Menu() {
                     });
                 }
 
-                objNumList.sort(function(a, b) { return a.value - b.value; });
+                objNumList.sort(function(a, b) { return b.value - a.value; });
                 document.getElementById("numberandfrequency").innerHTML += "<p>";
 
 
