@@ -20,9 +20,9 @@
 
 4. This program has 4 buttons ( 4 states). Start / Halt / Resume / Quit
 
-5. When the program on start, Start / Halt / Resume buttons will show off, but the Quit button is disabled.
+5. When the program on start, Start / Halt / Resume buttons will show off, but the Quit button is disabled. And the program will show that "The system has not started".
 
-6. The program only allows to be into 'Start' state if all the field requied entered ( the amount value in seconds and at least the first value entered).
+6. The program only allows to be into 'Start' state if all the field requied entered ( the amount value in seconds and at least the first value entered). If users press Start button, other buttons including Halt / Resume / Quit will be on. However, the Start button will be off in 'Start' state. And the programe will show that "The program has started"
 
 7. When the program starts, users can force the program to be into pause state with 'Halt' button.
 
