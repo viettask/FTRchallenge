@@ -22,7 +22,9 @@
 
 5. When the program on start, Start / Halt / Resume buttons will show off, but the Quit button is disabled. And the program will show that "The system has not started".
 
-6. The program only allows to be into 'Start' state if all the field requied entered ( the amount value in seconds and at least the first value entered). If users press Start button, other buttons including Halt / Resume / Quit will be on. However, the Start button will be off in 'Start' state. And the programe will show that "The program has started"
+6. The program only allows to be into 'Start' state if all the field requied entered ( the amount value in seconds and at least the first value entered). If users press Start button, other buttons including Halt / Resume / Quit will be on. However, the Start button will be off in 'Start' state. And the programe will show that "The program has started". Then, all the number values will be sorted in descending order. For example "8:3 , 11:2 , 1:1"
+
+7. When program in 
 
 7. When the program starts, users can force the program to be into pause state with 'Halt' button.
 
