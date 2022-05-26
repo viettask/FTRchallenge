@@ -26,7 +26,13 @@
 
 7. When the program starts, users can force the program to be into pause state with 'Halt' button. And the program will show that "The system has paused". In this state, only Resume & Quit buttons can be shown for clicking.
 
-8. Whenever the users press "Resume" button, the program will show that "the system has resumed". 
+8. Whenever the users press "Resume" button, the program will show that "the system has resumed". In this state, only Halt & Quit buttons can be shown for clicking.
+
+9. Users can enter new number value at all times even in Start , Halt or Resume state. The program will automatically generate the sequence in the format required.
+
+10. The program can be terminated if users press Quit button. And the farewell message will be shown up as "Thanks for playing"
+
+11. This program still in basic without UI design.
 
 
 
