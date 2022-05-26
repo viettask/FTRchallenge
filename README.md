@@ -16,5 +16,9 @@
  > 
  > - <p>2.d Again, if users enter the right value ( a number), the bottom will show that "The frequency entered is 1 (in seconds)" , for example.</p>
 
+3. when users enter a number as an input, the program will check if this value is in the Fibonacci sequence. However, when I calculated the first 1000th numbers in the Fibonacci sequence, it is extremely huge amount value, then I do not make a checking function for this feature. Therefore, this program only check if the value entered is in the Fibonacci sequence. If so, the program will show that "The first number is 8 - FIB" instead of "The first number is 8", just for example. So, FIB at the end to prompt users that this value is in the Fibonacci sequence.
+
+4
+
   
   
