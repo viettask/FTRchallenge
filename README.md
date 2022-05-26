@@ -18,7 +18,11 @@
 
 3. when users enter a number as an input, the program will check if this value is in the Fibonacci sequence. However, when I calculated the first 1000th numbers in the Fibonacci sequence, it is extremely huge amount value, then I do not make a checking function for this feature. Therefore, this program only check if the value entered is in the Fibonacci sequence. If so, the program will show that "The first number is 8 - FIB" instead of "The first number is 8", just for example. So, FIB at the end to prompt users that this value is in the Fibonacci sequence.
 
-4
+4. This program has 4 buttons ( 4 states). Start / Halt / Resume / Quit
+
+5. When the program on start, Start / Halt / Resume buttons will show off, but the Quit button is disabled.
+
+
 
   
   
