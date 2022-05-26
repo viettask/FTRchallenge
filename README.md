@@ -32,7 +32,9 @@
 
 10. The program can be terminated if users press Quit button. And the farewell message will be shown up as "Thanks for playing"
 
-11. This program still in basic without UI design.
+11. This program still in basic without UI design
+
+#Thanks for reading
 
 
 
