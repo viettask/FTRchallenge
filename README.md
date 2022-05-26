@@ -13,7 +13,8 @@
  > - <p>2.b when the first value entered, the program will alert that "Please enter the first number" </p>
  > 
  > - <p>2.c when the second value entered, the program will alert that "Please enter the second number" </p>
-
+ > 
+ > - <p>2.d Again, if users enter the right value ( a number), the bottom will show that "The frequency entered is 1 (in seconds)" , for example.</p>
 
   
   
